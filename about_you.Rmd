@@ -3,13 +3,13 @@ title: "First Knit"
 author: "Leah Riganyan"
 date: "`r Sys.Date()`"
 output:
-  pdf_document:
-    toc: yes
-    toc_depth: '5'
   html_document:
     number_sections: yes
     toc: yes
     toc_depth: 5
+  pdf_document:
+    toc: yes
+    toc_depth: '5'
 ---
 
 # A Little Survey
@@ -36,7 +36,7 @@ Where did you attend High School, and did you graduate? Compare english class to
 What name do you prefer to be called by your classmates and instructor, if your buddys call you something but you want people in the class to call you something else - what would that be? 
 
 ### my answer     
-  
+  I just prefer my name, "Leah" for both classmates and instructors. I don't have nicknames that my friends call me. 
    
  
 
